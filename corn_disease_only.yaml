@@ -1,0 +1,14 @@
+path: ../datasets/corn-dis
+train: train/images
+val: val/images
+test: test/images
+nc: 8
+names:
+- Blight
+- brown_spot
+- corn_rust
+- corn_smut
+- downy_mildew
+- grey_leaf_spot
+- healthy
+- maize-streak-disease
